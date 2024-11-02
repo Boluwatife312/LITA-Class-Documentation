@@ -63,3 +63,5 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization 
 
+https://github.com/Boluwatife312/LITA-Class-Documentation/blob/main/Text%20Cleaning%202%20Assignment.jpg
+

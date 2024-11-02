@@ -1,6 +1,6 @@
-# LITA-Class-Documentation
+# *LITA-Class-Documentation*
 
-### Project Title: E commerce Sales Analysis
+### *Project Title: E commerce Sales Analysis*
 
 [Project Overview](#project-overview)
 
@@ -16,16 +16,17 @@
 
 [Data Visualization](#data-visualization)
 
-### Project Overview
+### *Project Overview*
 -------------
 
 This Data Analytics projects gives insight to youth and exposes them to various oppourtunities. By analysing the various parameters in the data received, we seek to gather enough insight to make decisions which then enables us to tell compelling stories.
 
-### Data Sources 
+### *Data Sources* 
 ---------------
 
 The primary source of Data used here is Data Scale.esv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
-### Tools Used
+
+### *Tools Used*
 ----------
 
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -36,7 +37,7 @@ The primary source of Data used here is Data Scale.esv and this is an open sourc
 - SQL Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
-### Data Cleaning and Preparations
+### *Data Cleaning and Preparations*
 ----------------
 
 In the Initial phase of the Data Cleaning and preparation,we perform the following action;
@@ -44,7 +45,7 @@ In the Initial phase of the Data Cleaning and preparation,we perform the followi
 2. Handling missing variables
 3. Data Cleaning and formatting
    
-### Exploratory Data Analysis
+### *Exploratory Data Analysis*
 ----------------
 
 EDA involved the exploring of the Data to answer some questions about the Data such as; 
@@ -53,7 +54,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - which product are top sellers?
 - what are the products on peak sales?
 
-### Data Analysis 
+### *Data Analysis* 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ```SQL
@@ -61,11 +62,11 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-### Data Visualization 
+### *Data Visualization* 
 
 https://github.com/Boluwatife312/LITA-Class-Documentation/blob/main/Text%20Cleaning%202%20Assignment.jpg
 
-### How to create a table 
+### *How to create a table*
 
 |Table 1|Table 2|Table 3|Table 4|
 |---------|---------|---------|---------|

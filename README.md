@@ -31,9 +31,9 @@ The primary source of Data used here is Data Scale.esv and this is an open sourc
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   - For Data Cleaning
   - For Data Analysis
-- For Data Visualization
+  - For Data Visualization
   
-- SQl- Structured Query Language for Querying of Data
+- SQL Structured Query Language for Querying of Data
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations

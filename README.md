@@ -70,8 +70,8 @@ https://github.com/Boluwatife312/LITA-Class-Documentation/blob/main/Text%20Clean
 
 |Table 1|Table 2|Table 3|Table 4|
 |---------|---------|---------|---------|
-|Name|Age|Subject|Score|
-|Temi|16|Chemistry|39|
-|Grace|15|Maths|70|
-|Kathy|17|English|90|
-|Tope|17|Physics|56|
+|**Name**|**Age**|**Subject**|**Score**|
+|*Temi*|16|*Chemistry*|39|
+|*Grace*|15|*Maths*|70|
+|*Kathy*|17|*English*|90|
+|*Tope*|17|*Physics*|56|

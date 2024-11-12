@@ -71,7 +71,9 @@ From my knowledge in SQL,i moved to power Bi to create a dashboard. I visualized
   
 - Customer Segmentation: Displaying trends by regional breakdown and active vs cancelled subscription, subscription type.
 
-  I added slicers to the dashboard and that enabled me to make it more interactive,so users can filter by subscription status, regions and other metrics. 
+  I added slicers to the dashboard and that enabled me to make it more interactive,so users can filter by subscription status, regions and other metrics.
+  
+  https://github.com/user-attachments/assets/0ff6b66b-3d01-498d-9d13-6c6be05680e9
 
 https://github.com/user-attachments/assets/6fab23e6-8b31-4ee8-ad52-e965a991d6ba
 

@@ -67,7 +67,7 @@ I explored the third and the fourth question based on the subscription of data
 
 From my knowledge in SQL,i moved to power Bi to create a dashboard. I visualized the key metrics: 
 
-- Sales Performance: Showing top products, revenue trends by region and sales overtime
+- Sales Performance: Showing top products, revenue trends by region and sales overtime 
   
 - Customer Segmentation: Displaying trends by regional breakdown and active vs cancelled subscription, subscription type.
 

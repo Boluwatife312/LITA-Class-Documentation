@@ -1,6 +1,6 @@
 # *LITA-Class-Documentation*
 
-### *Project Title: My Data Analysis Project @ LITA
+### *Project Title: My Data Analysis Project @ LITA*
 
 [Project Overview](#project-overview)
 

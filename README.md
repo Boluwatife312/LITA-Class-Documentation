@@ -56,7 +56,14 @@ For this project, I worked with two datasets:
 ### Step 2: SQL Analysis
 ----------------
 
-Using SQL queries, I stumbled on various key questions,such as
+Using SQL queries, I stumbled on various key questions,such as;
+
+- How many transactions occured in each region?
+- What are the top selling products and highest revenue regions?
+- Which subscription type was the most popular?
+- How long on average did customer's stay subscribed?
+I explored the third and the fourth question based on the subscription of data
+
 
 ### *Data Analysis* 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;

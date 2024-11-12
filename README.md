@@ -50,7 +50,8 @@ For this project, I worked with two datasets:
 
 ### Step 1: Data Preparation 
  I started by loading both datasets into SQL server. After some basic data cleaning, i was able to generate some calculated fields that could help with my analysis.
-  In Excel,i added a few additional calculations such as monthly trends and average sales by products. Doing this above mentioned gave me a quick overview of what the data looked like before diving into detailed queries.
+ 
+ In Excel,i added a few additional calculations such as monthly trends and average sales by products. Doing this above mentioned gave me a quick overview of what the data looked like before diving into detailed queries.
    
 ### *Exploratory Data Analysis*
 ----------------

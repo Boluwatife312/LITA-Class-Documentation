@@ -20,7 +20,11 @@
 ### *Project Overview*
 -------------
 
-This Data Analytics projects gives insight to youth and exposes them to various oppourtunities. By analysing the various parameters in the data received, we seek to gather enough insight to make decisions which then enables us to tell compelling stories.
+During the process of this project, I focused on two main areas;
+1. Sales Performance Analysis for a retail store
+2. Customer Segmentation for a subscription based service
+
+The goal was go deeper into each data set to find insights on sales trend, customers behavior and regional performance. To achieve this,i used SQL,EXCEL and Power BI to analyze my data and visualize the findings.
 
 ### *Data Sources* 
 ---------------

@@ -21,7 +21,7 @@
 ### *Project Overview*
 -------------
 
-During the process of this project, I focused on two main areas;
+During the process of this project, I focused on two main areas:
 1. Sales Performance Analysis for a retail store
 2. Customer Segmentation for a subscription based service
 
@@ -30,7 +30,9 @@ The goal was go deeper into each data set to find insights on sales trend, custo
 ### *Data Sources* 
 ---------------
 
-The primary source of Data used here is Data Scale.esv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+For this project, I worked with two datasets:
+- Sales Data: Details on transactions, products,regions and revenue.
+- Customer Data: Informations about customer,their start and end dates,their revenue, subscription and cancellation statuses. 
 
 ### *Tools Used*
 ----------

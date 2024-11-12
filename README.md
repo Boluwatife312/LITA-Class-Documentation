@@ -84,4 +84,8 @@ I discovered valuable insights during this project such as;
 
 2. Customers Segmentation: A few subscription types were more popular and the majority of cancellation happened within the first six months,suggesting a need to improve customers retention.
 
-###
+### Conclusion
+----------
+
+This project prompted me to practice data analysis thoroughly. From exploring the data in Excel and SQL,to visualizing findings in POWER BI. By using this innovations,i was able to uncover and present insights that could help inform business decisions in a retail and subscription format.
+

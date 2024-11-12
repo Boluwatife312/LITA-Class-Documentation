@@ -87,3 +87,4 @@ I discovered valuable insights during this project such as;
 
 This project prompted me to practice data analysis thoroughly. From exploring the data in Excel and SQL,to visualizing findings in POWER BI. By using this innovations,i was able to uncover and present insights that could help inform business decisions in a retail and subscription format.
 
+https://github.com/user-attachments/assets/828525d3-557e-4a35-9a4c-2a41bd35917e

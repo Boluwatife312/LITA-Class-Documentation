@@ -10,11 +10,9 @@
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Key Insights and Results](#key-insights-and-results)
 
-[Data Analysis](#data-analysis)
-
-[Data Visualization](#data-visualization)
+[Conclusion](#conclusion)
 
 ### *Sales Performance and Customers Analysis*
 ------------

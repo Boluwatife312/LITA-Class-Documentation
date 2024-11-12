@@ -75,14 +75,15 @@ From my knowledge in SQL,i moved to power Bi to create a dashboard. I visualized
 
   I added slicers to the dashboard and that enabled me to make it more interactive,so users can filter by subscription status, regions and other metrics. 
 
-```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
+### Key Insights and Results 
+---------------
 
-### *Data Visualization* 
+I discovered valuable insights during this project such as;
 
-https://github.com/Boluwatife312/LITA-Class-Documentation/blob/main/Text%20Cleaning%202%20Assignment.jpg
+1. Sales Trends: Certain products performed better in specific regions and sales were higher in some months, showing seasonal demands.
+
+2. Customers Segmentation: A few subscription types were more popular and the majority of cancellation happened within the first six months,suggesting a need to improve customers retention.
+
 
 ### *How to create a table*
 

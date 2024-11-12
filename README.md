@@ -73,6 +73,8 @@ From my knowledge in SQL,i moved to power Bi to create a dashboard. I visualized
 
   I added slicers to the dashboard and that enabled me to make it more interactive,so users can filter by subscription status, regions and other metrics. 
 
+https://github.com/user-attachments/assets/6fab23e6-8b31-4ee8-ad52-e965a991d6ba
+
 ### Key Insights and Results 
 ---------------
 

@@ -53,14 +53,10 @@ For this project, I worked with two datasets:
  
  In Excel,i added a few additional calculations such as monthly trends and average sales by products. Doing this above mentioned gave me a quick overview of what the data looked like before diving into detailed queries.
    
-### *Exploratory Data Analysis*
+### Step 2: SQL Analysis
 ----------------
 
-EDA involved the exploring of the Data to answer some questions about the Data such as; 
-
-- what is the overall sales trend?
-- which product are top sellers?
-- what are the products on peak sales?
+Using SQL queries, I stumbled on various key questions,such as
 
 ### *Data Analysis* 
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;

@@ -65,8 +65,11 @@ Using SQL queries, I stumbled on various key questions,such as;
 
 I explored the third and the fourth question based on the subscription of data
 
-### *Data Analysis* 
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+### Step 3: Building the POWER BI dashboard 
+
+From my knowledge in SQL,i moved to power Bi to create a dashboard. I visualized the key metrics: 
+
+- Sales Performance:
 
 ```SQL
 SELECT * FROM TABLE1

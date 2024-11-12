@@ -48,10 +48,8 @@ For this project, I worked with two datasets:
 ### *Data Cleaning and Preparations*
 ----------------
 
-In the Initial phase of the Data Cleaning and preparation,we perform the following action;
-1. Data Loading and Inspection
-2. Handling missing variables
-3. Data Cleaning and formatting
+### Step 1: Data Preparation 
+I
    
 ### *Exploratory Data Analysis*
 ----------------

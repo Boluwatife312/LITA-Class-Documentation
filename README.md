@@ -39,13 +39,11 @@ For this project, I worked with two datasets:
 ### *Tools Used*
 ----------
 
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  - For Data Cleaning
-  - For Data Analysis
-  - For Data Visualization
+- SQL Server: I used sql queries to transform data,clean, explore. Extracting key insights directly from the database.
   
-- SQL Structured Query Language for Querying of Data
-- GitHub for Portfolio Building
+- Excel: I loaded the data into excel for exploration. Using pivot tables,i summarized matrice like total sales by products, months and regions
+
+- Power BI: I built an interactive power bi dashboard to visualize the findings and enable further explorations.
 
 ### *Data Cleaning and Preparations*
 ----------------

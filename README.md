@@ -49,7 +49,7 @@ For this project, I worked with two datasets:
 ----------------
 
 ### Step 1: Data Preparation 
-I
+I started by loading both datasets into SQL server. After some basic data cleaning, i was able to generate some calculated fields that could help with my analysis.
    
 ### *Exploratory Data Analysis*
 ----------------

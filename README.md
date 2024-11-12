@@ -16,6 +16,7 @@
 
 [Data Visualization](#data-visualization)
 
+### *Sales Performance and Customers Analysis*
 ### *Project Overview*
 -------------
 

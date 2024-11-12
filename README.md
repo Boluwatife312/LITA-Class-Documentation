@@ -34,7 +34,7 @@ The goal was go deeper into each data set to find insights on sales trend, custo
 For this project, I worked with two datasets:
 - **Sales Data**: Details on transactions, products,regions and revenue.
 
-- **Customer Data**: Informations about customer,their start and end dates,their revenue, subscription and cancellation statuses. 
+- **Customer Data**: Informations about customer,their start and end dates,their revenue, subscription and cancellation status. 
 
 ### *Tools Used*
 ----------
